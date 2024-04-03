@@ -1,5 +1,3 @@
-### hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
-
 Hi, I'm a DevOps Engineer from Bucharest, specializing in Docker, Kubernetes, and Linux 🖥️. In my work, I focus on creating efficient and reliable systems through automation and scripting 🛠️. 
 
 Outside of tech, I'm passionate about archery 🏹 and playing the saxophone 🎷, which gives me a great balance between precision and creativity. 
